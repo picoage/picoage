@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Vishnu Udayakumar, husband, father of two and a passionate developer. 
+- ### Hi there, I'm Vishnu Udayakumay - aka [Picoage](https://www.picoage.net) 👋
+- 
+- ##  Hi, I’m Vishnu Udayakumar, husband, father of two and a passionate developer.
+
 - 👀 I’m interested in trekking, playing tennis and spending time with my family. 
 - 🌱 I’m currently learning what I don't know. 
 - 💞️ I’m looking to collaborate on ...
