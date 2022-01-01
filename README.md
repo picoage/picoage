@@ -15,10 +15,14 @@
 <br/> <br/>
 
 ### Languages and Tools:
+
+<img  align="left" alt="Csharp" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
+
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-<img  align="left" alt="Csharp" width="26px" src="https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg" />
+<img  align="left" alt="Visula studio" width="26px" src="https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg" />
 
 <img  align="left" alt="Azure" width="26px" src="https://cdn.cdnlogo.com/logos/a/12/azure.svg" />
 
