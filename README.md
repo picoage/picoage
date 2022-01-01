@@ -20,7 +20,15 @@
 
 <img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/v/78/visual-studio-2013.svg" />
 
+<img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/a/12/azure.svg" />
 
+<img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/a/57/azure-event-hub.svg" />
+
+<img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" />
+
+<img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/i/24/ionic.svg" />
+
+<img  align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" />
 
 
 <!---
