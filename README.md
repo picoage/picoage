@@ -6,11 +6,11 @@
 <br/> <br/>
 
 ### Connect with me on:
-- [<img align="left" alt="Picoage | YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202041logosocialsocialmediavideoyoutube-115647_115654.png" />][youtube]
+- [<img align="left" alt="Picoage | YouTube" width="22px" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg" />][youtube]
 
-- [<img align="left" alt="Picoage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+- [<img align="left" alt="Picoage | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
 
-- [<img align="left" alt="Picoage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [<img align="left" alt="Picoage | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />][linkedin]
 
 <br/> <br/>
 
