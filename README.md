@@ -15,6 +15,10 @@
 <br/> <br/>
 
 ### Languages and Tools:
+
+<img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" />
+
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
@@ -25,6 +29,8 @@
 <img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/a/57/azure-event-hub.svg" />
 
 <img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" />
+
+<img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg" />
 
 <img  align="left" alt="Visual Studio" width="26px" src="https://cdn.cdnlogo.com/logos/i/24/ionic.svg" />
 
