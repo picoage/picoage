@@ -30,7 +30,7 @@
 
 <img  align="left" alt="Angular" width="26px" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" />
 
-<img  align="left" alt="Ionic" width="26px" src="https://cdn.cdnlogo.com/logos/i/24/ionic.svg" />
+<img  align="left" alt="Ionic" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNrEfROyFZle6NGzX5N9So-8kP8ADjYUJhIw&amp;usqp=CAU" />
 
 <img  align="left" alt="Electron" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/256px-Electron_Software_Framework_Logo.svg.png" />
 
