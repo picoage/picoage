@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in trekking, playing tennis and spending time with my family. 
 - 🌱 I’m currently learning what I don't know. 
-- 💞️ I’m looking to collaborate with other open-source community >
+- 💞️ I’m looking to collaborate with other open-source community.
 <br/> <br/>
 
 ### Connect with me on:
